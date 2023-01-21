@@ -1,0 +1,15 @@
+.bac{
+    background-image: url(../resource/phon.jpg);
+}
+.con{
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 40px;
+    color: red;
+}
+
+.container{
+    font-family: fantasy;
+    font-style: italic;
+    color: red;
+}
